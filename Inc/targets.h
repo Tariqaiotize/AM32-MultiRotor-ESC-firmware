@@ -16,7 +16,7 @@
 //#define AM32REF
 //#define BLPWR
 //#define HVFLYCOLOR
-#define NEUTRON_G071
+//#define NEUTRON_G071
 //#define G071_64K
 //#define G071ENABLE
 //#define G071_OPEN_DRAIN
